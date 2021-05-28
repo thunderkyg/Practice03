@@ -12,10 +12,7 @@ public class Ex10 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("숫자를 입력하세요: ");
-        num = sc.nextInt();
-
-        while(a < 5) {
+        while(a <= 5) {
             System.out.print("숫자: ");
             num = sc.nextInt();
             
