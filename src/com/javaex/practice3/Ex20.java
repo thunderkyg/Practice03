@@ -12,7 +12,7 @@ public class Ex20 {
 		boolean second = true;		
 
 		while (first) {
-			
+		
 			System.out.println("=====================");
 			System.out.println("숫자맞추기 게임 시작");
 			System.out.println("=====================");
